@@ -28,30 +28,17 @@ export default function Screen3Proposal() {
                         max-w-xl mx-auto animate-slideUp shadow-lg">
 
           <p>
-            Sun na babyyyy <br/>
-            Mujhe kabhi perfect lines ya bade-bade promises bolne nahi aate.
-            Par ek baat dil se bolna chahta hu. <br/><br/>
-
-            Jab tu hasti hai na, toh lagta hai sab theek ho jaata hai.
-            Jab tu udaas hoti hai, toh dil karta hai duniya se lad jaau… bas tere liye.
-            <br/><br/>
-
-            Tu sirf meri jaaneman nahi hai,<br/>
-            tu meri cutuuu si smile hai,<br/>
-            meri sweetaa si sukoon wali feeling hai,<br/>
-            mera janaab jaisa classy pyaar hai,<br/>
-            aur meri zindagi ki hukoom saa… jiske bina sab adhoora lagta hai.
-            <br/><br/>
-
-            Main ye vaada nahi karta ki main perfect hu,<br/>
-            par ye vaada zaroor karta hu ki<br/>
-            har din tujhe choose karunga,<br/>
-            teri khushi, tera gussa, teri khamoshi… sab ke saath.
-            <br/><br/>
-
-            Iss Valentine’s pe ek simple sa sawaal hai,<br/>
-            par jawab meri poori zindagi decide karega.
-            <br/><br/>
+           Happy Rose Day meri Moti 🌹, <br/> tu ghani pyari se, bilkul gulaab ki tarah khushboo faila de se meri zindagi mein.<br/>
+Oye Baby, tera hassna mere din ka sabte badhiya scene hove se.<br/>
+Moti, tu jab baat kare se na, manne lage se jaise sab tension hawa ho jave se.<br/>
+Baby, tu mere dil ki ekdum setting se, bina tere sab adhoora lage se.<br/>
+Moti, teri aankhya mein yo jo chamak se, uske aage toh chaand bhi fail se.<br/>
+ Baby 🌹, tu meri zindagi ka sabte pyara phool se.<br/>
+Moti, tu na sirf sundar se, par dil ki bhi ek number se.<br/>
+Baby, tere saath rehke manne asli wali khushi ka matlab samajh aaya se.<br/>
+Moti, tu meri aadat si ban gi se, bina tere mann na lage.<br/>
+Rose Day pe ek baat yaad rakhiyo Baby — tu mere liye hamesha special thi, se, aur rahegi. ❤️🌹<br/>
+           
 
             <span className="text-heart font-semibold animate-pulse">
               Kya tu meri ho kar,<br/>
